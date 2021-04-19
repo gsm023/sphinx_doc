@@ -16,7 +16,6 @@ Welcome to sphinx_doc's documentation!
    projects_list
 
 
-
 Indices and tables
 ==================
 
