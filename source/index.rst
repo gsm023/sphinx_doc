@@ -15,7 +15,7 @@ Welcome to sphinx_doc's documentation!
    configuration
    projects_list
 
-
+s
 Indices and tables
 ==================
 
