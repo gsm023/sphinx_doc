@@ -11,6 +11,11 @@ Welcome to sphinx_doc's documentation!
    :caption: Contents:
 
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Test:
+
+
 
 Indices and tables
 ==================
