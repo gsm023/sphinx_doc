@@ -10,10 +10,10 @@ Welcome to sphinx_doc's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Test:
+   getting_started
+   syntax
+   configuration
+   projects_list
 
 
 
